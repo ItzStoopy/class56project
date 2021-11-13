@@ -1,0 +1,8 @@
+<html>
+<head><title>Miraculous</title></head>
+    <body>
+<span><img id="adrienette"src="adrienandmari.jfif" width="150" height="150"></span>
+<span><img id="ladynoir"src="ladybugandcat.jfif" width="150" height="150"></span>
+<div><img id="ladybug"src="ladybug.jpg" width="150" height="150"></div>
+<div><img id="multimouse"src="mutimouse.jpg" width="150" height="150"></div>
+</body></html>
